@@ -15,7 +15,7 @@ A simple maze game built using **JavaScript**, **HTML**, and **CSS**. The player
 - 🔄 **jQuery** (for touch/swipe functionality)
 
 ## 🌍 Deployment
-You can view the live demo of the Maze Game: [Link to Demo].
+You can view the live demo of the Maze Game: https://nidhi1815.github.io/Maze-Generator/
 
 ## 📜 How to Play
 1. Use the **arrow keys** 🡆🡄🡅🡇 to move through the maze.
